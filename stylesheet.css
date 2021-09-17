@@ -9,10 +9,10 @@ title {
 	
 }
 
-p {
+/*p {
 	text-align: center;
 	/*font-size: 14px;*/
-}
+}*/
 
 a {
 	color: blue;
@@ -27,17 +27,17 @@ a {
 }
 
 
-h1,h2,h3 {
+/*h1,h2,h3 {
 	text-align: center;
-}
+}*/
 
 ul,li {
-	text-align: center;
+	/*text-align: center;*/
 	font-style: italic; 
 }
 
 
 table, tr, td {
 	border: 1px solid black;
-	font-style: normal;
+	/*font-style: normal;*/
 }

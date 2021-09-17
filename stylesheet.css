@@ -32,7 +32,7 @@ h1,h2,h3 {
 }
 
 ul,li {
-	font-family: Arial Black, Helvetica, sans-serif;
+	text-align: center;
 	font-style: italic; 
 }
 

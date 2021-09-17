@@ -35,6 +35,6 @@ ul,li {
 
 
 table, tr, td {
-	border-style: 1px solid black;
+	border: 1px solid black;
 	font-style: normal;
 }

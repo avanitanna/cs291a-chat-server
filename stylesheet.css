@@ -1,5 +1,5 @@
 html, body {
-	background-color: #f8f8ff;
+	/*background-color: #f8f8ff;*/
 	color: black;
 	font-family: Arial Black, Helvetica, sans-serif;
 }
@@ -19,8 +19,8 @@ a {
 }
 
 #my_photo{
-	width: 100px;
-    height: 100px;
+	width: 1000px;
+	height: 1000px;
 }
 
 
